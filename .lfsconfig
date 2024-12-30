@@ -1,5 +1,5 @@
 [lfs]
-  url = "https://localhost:9999/"
+  url = "https://localhost:8080/"
 
 [http]
   sslverify = false
